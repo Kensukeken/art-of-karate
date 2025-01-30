@@ -1,0 +1,13 @@
+/**
+ * @author Kensukeken
+ * @file reset.css
+ * @brief CSS file to reset default browser styles
+ * @version 1.0
+ * @date 2025-01-29
+ */
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
